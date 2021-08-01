@@ -1,0 +1,8 @@
+trading\util\stocksimulator\Buy.class
+trading\util\stocksimulator\StockUtilities.class
+trading\util\stocksimulator\Account.class
+trading\util\stocksimulator\TradeLedger.class
+trading\util\stocksimulator\Sell.class
+trading\util\stocksimulator\TradingGateway.class
+trading\util\stocksimulator\OrderBook.class
+trading\util\stocksimulator\StockSimulator.class
